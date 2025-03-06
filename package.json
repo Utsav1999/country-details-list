@@ -1,0 +1,28 @@
+{
+  "name": "country-details-list",
+  "version": "1.0.0",
+  "description": "A utility to work with country data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Utsav1999/country-details-list.git"
+  },
+  "keywords": [
+    "country",
+    "countries",
+    "country flag",
+    "country code",
+    "country currency",
+    "country phone code",
+    "country capital"
+  ],
+  "author": "Utsav Akash Naskar <utsavakash123@gmail.com> (https://utsav-akash-naskar.vercel.app/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Utsav1999/country-details-list/issues"
+  },
+  "homepage": "https://github.com/Utsav1999/country-details-list#readme"
+}
